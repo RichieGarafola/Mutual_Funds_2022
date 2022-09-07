@@ -1,4 +1,4 @@
-# Unit 5 - Financial Planning
+# Financial Planning
 
 ![Financial Planner](./Images/financial-planning.jpg)
 
